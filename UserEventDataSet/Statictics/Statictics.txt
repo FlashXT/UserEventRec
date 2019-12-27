@@ -1,0 +1,36 @@
+Description:
+	(1)userWithBlock.csv:
+			User Num: 9248
+			Topic Per User: 16
+			Category per User: 5
+	(2)userOnAdjList.txt:
+			Mean Neighbors num of User: 1180
+			Max Neighbors num of User: 6863
+			Min Neighbors num of User: 1
+	(3)userOffAdjList.txt:
+			Mean Neighbors num of User: 283
+			Max Neighbors num of User: 4693
+			Min Neighbors num of User: 1
+	(4)groupSize:
+			group Num:1096
+			Mean user num of Group: 66
+			Max user num of Group: 1071
+			Min user num of Group: 1
+	(5)eventSize:
+			Mean user num of event: 19
+			Max user num of event: 1363
+			Min user num of event: 0
+		
+	(6)trainset:
+		Rsvp1 / Rsvp0 : 4.73
+		Mean Rsvp  num of user: 27
+		Mean Rsvp1 num of user: 22
+		Mean Rsvp0 num of user: 4
+	(7)testset:
+		Rsvp1 / Rsvp0 : 4.97
+		Mean Rsvp num of user: 9
+		Mean Rsvp1 num of user: 8
+		Mean Rsvp0 num of user: 1
+
+
+      
